@@ -64,5 +64,4 @@ public class SearchingFiles {
         ArgsName argsName = ArgsName.of(args);
         find(argsName);
     }
-
 }
