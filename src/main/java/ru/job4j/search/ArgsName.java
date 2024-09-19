@@ -50,5 +50,6 @@ public class ArgsName {
         ArgsName names = new ArgsName();
         names.parse(args);
         return names;
+
     }
 }
